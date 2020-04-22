@@ -1,0 +1,3 @@
+id: "20200422170755.69806600"
+project-name: testkabanero
+stack: docker.io/kabanero/java-spring-boot2:0.3
